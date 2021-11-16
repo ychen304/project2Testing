@@ -1,5 +1,8 @@
 #eventsPage{
-background-color: #87CEEB;
+ background-image: url('sky.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
 }
 body {
  margin-left: 20px;
