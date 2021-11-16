@@ -262,16 +262,41 @@ ol {
 }
 
 .philosophy {
-  border: 2px solid black;
+  border: 2px solid #000401;
   margin-top: 10px;
 }
 
 .thanksgiving {
-  border: 2px solid black;
+  border: 2px solid #000401;
   margin-top: 10px;
 }
 
 .chrismas {
-  border: 2px solid black;
+  border: 2px solid #000401;
   margin-top: 10px;
 }
+
+/*Desktop Screen*/  
+@media screen and (min-width: 980px){
+  
+
+.pe {
+  margin-top: 15px;
+}
+
+.philosophy {
+  border: 1.5px solid #4E545C;
+  margin-top: 8px;
+}
+
+.thanksgiving {
+  border: 1.5px solid #4E545C;
+  margin-top: 8px;
+}
+
+.chrismas {
+  border: 1.5px solid #4E545C;
+  margin-top: 8px;
+}
+
+  }
